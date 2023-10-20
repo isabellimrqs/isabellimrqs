@@ -10,7 +10,7 @@
   <h3>About me 😊 </h3>
   <br>
     <p>Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH</p>
-    <p>Education: Technical in Computing integrated to High School (2019 - 2022) : Dr. Leandro Franceschini</p>
+    <p>Education: Technical in Computing (2019 - 2022) : Microcamp</p>
   <br>
    
 ![demon-slayer-characters-giyu-tomioka](https://github.com/MatheusAprigio11/MatheusAprigio11/assets/126816425/5c597ac6-65d3-4df3-8505-603c937143b6)
