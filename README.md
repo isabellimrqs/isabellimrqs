@@ -13,6 +13,8 @@
     <p>Education: Technical in Computing (2019 - 2022) : Microcamp</p>
   <br>
    
+  ![friends-series-characters](friends.gif)
+
 <br>
 
 <div align="center">
