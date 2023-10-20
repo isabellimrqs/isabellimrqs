@@ -4,7 +4,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D34F73&height=110&section=header"/>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D34F73&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D34F73&random=false&width=435&lines=I'm+Isabelli+Marques;Welcome!;Be+happy+%3A))](https://git.io/typing-svg)
 
 </div>
 
