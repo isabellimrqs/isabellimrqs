@@ -19,7 +19,14 @@
   <a href="mailto:isabellimarques14@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
-![snake gif](https://github.com/isabellimrqs/isabellimrqs/blob/output/github-contribution-grid-snake.svg)
+<img
+		alt="Snake animation"
+		src="https://github.com/isabellimrqs/isabellimrqs/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+	/>
+	<img
+		alt="Snake animation"
+		src="https://github.com/isabellimrqs/isabellimrqs/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+	/>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b897ff&height=110&section=footer"/>
