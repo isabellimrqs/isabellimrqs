@@ -19,7 +19,7 @@
   <a href="mailto:isabellimarques14@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 <br>
-<img src="/gif/giphy.gif">
+
 
 <img
 		alt="Snake animation"
