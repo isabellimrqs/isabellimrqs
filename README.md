@@ -12,12 +12,14 @@
     <p>Education: Technical in Computing (2019 - 2022) : Microcamp</p>
   
    
-  ![friends-series-characters](friends.gif)
+ 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isabelli-marques-615b79210"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:isabellimarques14@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
+<br>
+<img src="/gif/giphy.gif">
 
 <img
 		alt="Snake animation"
