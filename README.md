@@ -9,7 +9,6 @@
   <h3>About me 😊 </h3>
   <br>
     <p>Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH</p>
-    <p>Education: Technical in Computing (2019 - 2022) : Microcamp</p>
   
    
  
