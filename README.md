@@ -33,4 +33,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b897ff&height=110&section=footer"/>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Gn8SHd3RIWjOermcidCJk?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
