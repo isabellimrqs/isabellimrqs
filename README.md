@@ -8,7 +8,7 @@
 <div align="center">
   <h3>About me 😊 </h3>
   <br>
-    <p>Apprentice in Digital Solutions- BOSCH</p>
+    <p>Apprentice in Digital Solutions - BOSCH</p>
     <p>Information Systems - USF</p>
 <br>
   
