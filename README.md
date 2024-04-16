@@ -8,7 +8,8 @@
 <div align="center">
   <h3>About me 😊 </h3>
   <br>
-    <p>Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH</p>
+    <p>Apprentice in Digital Solutions- BOSCH</p>
+    <p>Information Systems - USF</p>
   
    
  
