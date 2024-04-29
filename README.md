@@ -33,5 +33,5 @@
 	/>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b897ff&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=588157&height=110&section=footer"/>
 
