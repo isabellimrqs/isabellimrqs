@@ -30,6 +30,12 @@
 		src="https://github.com/isabellimrqs/isabellimrqs/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
 	/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isabellimrqs&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabellimrqs&layout=compact&langs_count=8&card_width=320&theme=merko" />
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=588157&height=110&section=footer"/>
 
