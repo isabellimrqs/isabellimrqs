@@ -3,13 +3,6 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6A994E&center=true&vCenter=true&random=false&width=435&lines=I'm+Isabelli+Marques!;Welcome!;Be+Happy!;%3AD)](https://git.io/typing-svg)
 </div>
-
-
-<div align="center">
-    <p>Digital Solutions Apprentice - BOSCH</p>
-    <p>Information Systems - USF</p>
-<br>
-  
    
  
 
@@ -18,8 +11,8 @@
   <a href="mailto:isabellimarques14@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 <br>
-<!--<img src="/gif/giphy (1).gif">--!>
-
+<!-- <img src="/gif/giphy (1).gif">
+ -->
 
 <img
 		alt="Snake animation"
