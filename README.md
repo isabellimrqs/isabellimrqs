@@ -32,12 +32,12 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabellimrqs&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<br><br> 
+<!---<br><br> 
 
 <div style="margin-top:50px;">
  <img src="/gif/giphy (1).gif">
 
- </div> 
+ </div> -->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a4c93&height=110&section=footer"/>
